@@ -13,7 +13,7 @@ Department of Computer Science and Engineering
 - Salman Sayeed
 - Abrar Islam
 - Kayjer Islam
-- SM Nahid Islam
+- SM Nahid Hassan
 
 ## Instructions
 
